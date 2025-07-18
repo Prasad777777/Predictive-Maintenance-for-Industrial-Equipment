@@ -1,38 +1,62 @@
-# Predictive Maintenance Dashboard Documentation
+# Predictive Maintenance Dashboard Documentation 📊
 
-## Introduction
-The Predictive Maintenance Dashboard is an interactive web application designed to provide insights into predictive maintenance for industrial machinery. It offers features for data visualization, historical data analysis, input data submission, and prediction results.
+## 🌐 Introduction
 
-## Features
-1. **Home:** Welcome page providing an overview of the application.
-2. **Historical Data:** View historical data of machinery sensor readings and operational hours.
-3. **Input Data:** Submit input data for prediction, either manually or by generating random values.
-4. **Results:** Display predictions for remaining useful life (RUL), maintenance status, and anomaly detection based on the input data.
-5. **Visualizations:** Visualize historical sensor data and operational hours through histograms, scatter plots, and line charts. Optionally overlay generated input values on visualizations.
+The **Predictive Maintenance Dashboard** is an interactive web application designed to provide insights into predictive maintenance for industrial machinery. It offers features for data visualization, historical data analysis, input data submission, and prediction results.
 
-## Technologies Used
-- **Streamlit:** Python library for building interactive web applications.
-- **Pandas:** Data manipulation and analysis library.
-- **NumPy:** Numerical computing library.
-- **Matplotlib:** Data visualization library for creating static, animated, and interactive visualizations.
-- **Seaborn:** Data visualization library based on Matplotlib for statistical graphics.
-- **scikit-learn:** Machine learning library for predictive modeling and data analysis.
-- **GitHub:** Version control repository for project collaboration and code management.
+## 💡 Features
 
-## Installation
-1. Clone the repository from GitHub: `git clone https://github.com/your_username/predictive-maintenance-dashboard.git`
-2. Install the required Python packages: `pip install -r requirements.txt`
-3. Run the Streamlit application: `streamlit run app.py`
+1. 🏠 **Home:** Welcome page providing an overview of the application.
+2. 📊 **Historical Data:** View historical data of machinery sensor readings and operational hours.
+3. ✏️ **Input Data:** Submit input data for prediction, either manually or by generating random values.
+4. ⚖️ **Results:** Display predictions for remaining useful life (RUL), maintenance status, and anomaly detection based on the input data.
+5. 🔍 **Visualizations:** Visualize historical sensor data and operational hours through histograms, scatter plots, and line charts. Optionally overlay generated input values on visualizations.
 
-## Usage
+## 📍 Access App from here
+
+[Streamlit App 🔗](https://predictive-maintenance-for-industrial-equipment-project.streamlit.app/)
+
+## 🚀 Technologies Used
+
+* **🌐 Streamlit:** Python library for building interactive web applications.
+* **📈 Pandas:** Data manipulation and analysis library.
+* **🔢 NumPy:** Numerical computing library.
+* **📊 Matplotlib:** Data visualization library for creating static, animated, and interactive visualizations.
+* **🎨 Seaborn:** Data visualization library based on Matplotlib for statistical graphics.
+* **🧑‍💻 scikit-learn:** Machine learning library for predictive modeling and data analysis.
+* **💾 GitHub:** Version control repository for project collaboration and code management.
+
+## 📅 Installation
+
+1. Clone the repository from GitHub:
+
+   ```bash
+   git clone https://github.com/your_username/predictive-maintenance-dashboard.git
+   ```
+2. Install the required Python packages:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Run the Streamlit application:
+
+   ```bash
+   streamlit run app.py
+   ```
+
+## 🔄 Usage
+
 1. Launch the application using the provided installation instructions.
 2. Navigate through the different sections using the sidebar menu:
-   - **Home:** Provides a brief introduction to the application.
-   - **Historical Data:** Displays historical sensor data and operational hours.
-   - **Input Data:** Allows users to submit input data for prediction.
-   - **Results:** Shows predictions for RUL, maintenance status, and anomaly detection based on the input data.
-   - **Visualizations:** Visualizes historical data and optionally overlays generated input values.
+
+   * 🏠 **Home:** Provides a brief introduction to the application.
+   * 📊 **Historical Data:** Displays historical sensor data and operational hours.
+   * ✏️ **Input Data:** Allows users to submit input data for prediction.
+   * ⚖️ **Results:** Shows predictions for RUL, maintenance status, and anomaly detection based on the input data.
+   * 🔍 **Visualizations:** Visualizes historical data and optionally overlays generated input values.
 3. Follow the on-screen instructions to interact with the application, submit input data, and view predictions.
+
+📄 Happy Analyzing and Predicting! 🚀
 
 
 ![image](https://github.com/rohanmatt/Predictive-Maintenance-for-Industrial-Equipment/assets/77683536/9f46c40f-eb92-4b75-9e5d-2605258f00bc)
