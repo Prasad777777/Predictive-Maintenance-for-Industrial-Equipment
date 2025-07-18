@@ -31,7 +31,7 @@ The **Predictive Maintenance Dashboard** is an interactive web application desig
 1. Clone the repository from GitHub:
 
    ```bash
-   git clone https://github.com/your_username/predictive-maintenance-dashboard.git
+   git clone [https://github.com/your_username/predictive-maintenance-dashboard.git](https://github.com/Prasad777777/Predictive-Maintenance-for-Industrial-Equipment)
    ```
 2. Install the required Python packages:
 
